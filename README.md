@@ -1,5 +1,6 @@
 # RCM-transform
-This repository is a supllement to the article " Transforming polar regional climate model output for data analysis using cdo and Python", by xxxx with doi: XXXXX. Please cite if this was found usefull for your research.
+This repository is a supllement to the article " "CRS not found": On solving coordinate problems in climate model output and other geospatial datasets", by Clément Cherblanc, Jeppe Peder Grejs Petersen, Fredrick Bunt, José Abraham Torres-Alavez, and
+Ruth Mottram with doi: XXXXX. Please cite if this was found usefull for your research.
 
 This repository contains three notebooks, that shows examples of using the methods dsecribed in the arcticle.
 
