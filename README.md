@@ -1,4 +1,4 @@
-This repository is a supplement to the article "CRS not found: On solving coordinate problems in climate model output and other geospatial datasets" by Clément Cherblanc, Jeppe Peder Grejs Petersen, Fredrick Bunt, José Abraham Torres-Alavez, and Ruth Mottram (DOI: XXXXX). Please cite the article if it was helpful for your research.
+This repository is a supplement to the article "Cherblanc C, Grejs Petersen JP, Bunt F et al. On solving coordinate problems in climate model output and other geospatial datasets [version 1; peer review: awaiting peer review]. Open Res Europe 2025, 5:269 (https://doi.org/10.12688/openreseurope.20467.1). Please cite the article if it was helpful for your research.
 
 This repository contains three notebooks that provide examples of using the methods described in the article.
 
